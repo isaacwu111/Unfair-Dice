@@ -1,6 +1,7 @@
 # Unfair-Dice
 
 import java.util.Scanner;
+
 public class Dice {
 	
 	private int diceSides = 0;
